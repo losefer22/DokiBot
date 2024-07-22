@@ -11,12 +11,12 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰
 
 global.owner = [ 
-['51955918117', 'Daniel', true],
-['51967647592', 'Naye.xyz', true],
-['59175655964', 'Colaborador Alba070503', true],
-['573012482597', 'Owner', true],
-['51929972576'],
-['5493875262116'],
+['201210694713', 'Daniel', true],
+['201210694713', 'Naye.xyz', true],
+['201210694713', 'Colaborador Alba070503', true],
+['201210694713', 'Owner', true],
+['201210694713'],
+['201210694713'],
 ['51967647592'],
 ['59896392749'],
 ['51907913096'], 
@@ -26,9 +26,9 @@ global.owner = [
 ['51977835959'],
 ['5214434703586']]
 
-global.mods = ['51977835959']
-global.prems = ['51977835959'],
-global.suittag = ['51955918117']
+global.mods = ['201210694713']
+global.prems = ['201210694713'],
+global.suittag = ['201210694713']
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
